@@ -78,7 +78,7 @@ This session looks at the origins if the Intelligence Community (IC) and its cur
 {{< tdopen >}}
 Lowenthal, Mark M. _Intelligence: From Secrets to Policy_. 2nd ed. Washington, DC: CQ Press, 2003, chapter 2, and 4, pp. 10-24, and 41-53. ISBN: 9781568027593.  
   
-Warner, Mark, ed. _Central Intelligence: Origin and Evolution_. Washington, DC: Center for the Study of Intelligence, CIA, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Origin_and_Evolution.pdf))  
+Warner, Mark, ed. _Central Intelligence: Origin and Evolution_. Washington, DC: Center for the Study of Intelligence, CIA, 2001. ([PDF](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Origin_and_Evolution.pdf))  
   
 George, Roger Z. and Robert D. Kline, eds. _Intelligence and the National Security Strategist: Enduring Issues and Challenges_. Washington, DC: National Defense University Press, 2004.  
   
@@ -192,7 +192,7 @@ George, Roger Z., and Robert D. Kline. Part IX in _Intelligence and National Sec
   
 Herman, Michael. "Intelligence and National Action." In _Strategic Intelligence_. Edited by Loch K. Johnson, and James J. Wirtz. Los Angeles, CA: Roxbury Publishing, 2004, chapter 17. ISBN: 9781931719278.  
   
-Senate Select Committee on Intelligence. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report on the U.S. Intelligence Community's Pre-war Assessments on Iraq." (PDF)](http://nsarchive.gwu.edu/NSAEBB/NSAEBB234/SSCI_phaseI_excerpt.pdf) 2004, pp. 1-30. (Conclusions)  
+Senate Select Committee on Intelligence. ["Report on the U.S. Intelligence Community's Pre-war Assessments on Iraq." (PDF)](http://nsarchive.gwu.edu/NSAEBB/NSAEBB234/SSCI_phaseI_excerpt.pdf) 2004, pp. 1-30. (Conclusions)  
   
 Summary of the Duelfer Report. ([PDF](https://www.cia.gov/library/reports/general-reports-1/iraq_wmd_2004/Comp_Report_Key_Findings.pdf))
 {{< tdclose >}}
@@ -212,7 +212,7 @@ Shulsky, Abram N., and Gary J. Schmitt. _Silent Warfare: Understanding the World
   
 Betts, Richard. "Analysis, War and Decision: Why Intelligence Failures Are Inevitable." _World Politics_ 31, no. 1.  
   
-Davis, Jack. "Strategic Warning." _Occasional Papers_ (2003): 2-9. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.cia.gov/library/kent-center-occasional-papers/pdf/OPV2No1.pdf))  
+Davis, Jack. "Strategic Warning." _Occasional Papers_ (2003): 2-9. ([PDF](https://www.cia.gov/library/kent-center-occasional-papers/pdf/OPV2No1.pdf))  
   
 Vickers, Robert. "The State of Warning Today." _Defense Intelligence Journal_ (1998): 9-15.
 {{< tdclose >}}
